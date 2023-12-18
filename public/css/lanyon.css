@@ -532,6 +532,17 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* UDE */
+.theme-base-ude .sidebar,
+.theme-base-ude .sidebar-toggle:active,
+.theme-base-ude #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #003b7a;
+}
+.theme-base-ude .container a,
+.theme-base-ude .sidebar-toggle,
+.theme-base-ude .related-posts li a:hover {
+  color: #003b7a;
+}
 
 /*
  * Overlay sidebar
